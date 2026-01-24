@@ -1,11 +1,6 @@
+<img width="896" height="355" alt="image" src="https://github.com/user-attachments/assets/574e3082-c6d1-44ae-9cea-91cd319f6088" />
 # About Me
 Currently working on<br>Machine Learning projects, focusing on practical, data-driven problem solving and AI-based applications.<br><br>
-
-Looking to collaborate on<br>Projects related to Data Analytics, Machine Learning, Python, Java, SQL, and Artificial Intelligence.<br><br>
-
-Looking for help with<br>Advanced Machine Learning techniques, model optimization, and deployment of analytical solutions.<br><br>
-
-Currently learning<br>Machine Learning algorithms, statistical analysis, AI agent development, and Big Data technologies.<br><br>
 
 💬 Ask me about<br>Python programming, Java, SQL, Data Analytics fundamentals, Machine Learning concepts, DBMS, and object-oriented programming.<br><br>
 
