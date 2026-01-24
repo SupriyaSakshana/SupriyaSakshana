@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Currently working on<br>Data Analytics and Machine Learning projects, with a focus on practical, data-driven problem solving and AI-based applications.<br><br>Looking to collaborate on<br>Projects related to Data Analytics, Machine Learning, Python, Java, SQL, and Artificial Intelligence.<br><br>Looking for help with<br>Advanced Machine Learning techniques, model optimization, and deployment of analytical solutions.<br><br> currently learning<br>Machine Learning algorithms, statistical analysis, AI agent development, and Big Data technologies.<br><br>💬 Ask me about<br>Python programming, Java, SQL, Data Analytics fundamentals, Machine Learning concepts, DBMS, and object-oriented programming.<br><br>⚡ Fun fact<br>I have a strong interest in understanding and simplifying complex technical concepts.
 
 
