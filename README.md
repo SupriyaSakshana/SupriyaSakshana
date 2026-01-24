@@ -29,12 +29,7 @@ Currently working on<br>Machine Learning projects, focusing on practical, data-d
 
 ---
 
-# GitHub Stats
 
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SupriyaSakshana&hide_border=false&include_all_commits=true&count_private=false&layout=compact&bg_color=000000&text_color=ffffff&title_color=1E90FF)
-
----
 
 [![](https://visitcount.itsvg.in/api?id=SupriyaSakshana&icon=2&color=15)](https://visitcount.itsvg.in)
 
