@@ -1,5 +1,5 @@
-<img width="896" height="355" alt="image" src="https://github.com/user-attachments/assets/574e3082-c6d1-44ae-9cea-91cd319f6088" />
-# About Me
+<img width="971" height="283" alt="image" src="https://github.com/user-attachments/assets/ff7d1d7c-3846-47fa-8766-9054ed53c11b" />
+
 Currently working on<br>Machine Learning projects, focusing on practical, data-driven problem solving and AI-based applications.<br><br>
 
 💬 Ask me about<br>Python programming, Java, SQL, Data Analytics fundamentals, Machine Learning concepts, DBMS, and object-oriented programming.<br><br>
