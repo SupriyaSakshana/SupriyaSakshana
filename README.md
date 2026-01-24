@@ -45,3 +45,9 @@ Currently learning<br>Machine Learning algorithms, statistical analysis, AI agen
 
 [![](https://visitcount.itsvg.in/api?id=SupriyaSakshana&icon=2&color=15)](https://visitcount.itsvg.in)
 
+
+<div style="background-color:#000000; color:#ffffff; padding:20px; border-radius:10px;">
+<h2>About Me</h2>
+<p>Currently working on Machine Learning projects, focusing on practical, data-driven problem solving and AI-based applications.</p>
+</div>
+
