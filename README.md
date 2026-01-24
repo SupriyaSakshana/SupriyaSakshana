@@ -1,4 +1,4 @@
-<img width="608" height="122" alt="image" src="https://github.com/user-attachments/assets/b04839eb-9703-4447-8534-3cfc7b2a14a7" />
+<img width="6080" height="122" alt="image" src="https://github.com/user-attachments/assets/b04839eb-9703-4447-8534-3cfc7b2a14a7" />
 
 
 Currently working on<br>Machine Learning projects, focusing on practical, data-driven problem solving and AI-based applications.<br><br>
