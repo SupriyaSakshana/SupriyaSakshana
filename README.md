@@ -31,9 +31,6 @@ Currently working on<br>Machine Learning projects, focusing on practical, data-d
 
 # GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=SupriyaSakshana&hide_border=false&include_all_commits=true&count_private=false&bg_color=000000&text_color=ffffff&title_color=1E90FF&icon_color=00BFFF)
-
-![](https://nirzak-streak-stats.vercel.app/?user=SupriyaSakshana&theme=dark&background=000000&hide_border=false&ring=1E90FF&fire=00BFFF&currStreakNum=ffffff&sideNums=ffffff&dates=ffffff)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SupriyaSakshana&hide_border=false&include_all_commits=true&count_private=false&layout=compact&bg_color=000000&text_color=ffffff&title_color=1E90FF)
 
