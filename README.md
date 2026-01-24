@@ -39,3 +39,6 @@ Currently working on<br>Machine Learning projects, focusing on practical, data-d
 <p>Currently working on Machine Learning projects, focusing on practical, data-driven problem solving and AI-based applications.</p>
 </div>
 
+<img width="6080" height="52" alt="image" src="https://github.com/user-attachments/assets/6cec6f01-fefe-4940-8dff-54b6cb2732a8" />
+
+
