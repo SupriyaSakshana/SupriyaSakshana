@@ -36,7 +36,7 @@ Currently working on<br>Machine Learning projects, focusing on practical, data-d
 
 <div style="background-color:#000000; color:#ffffff; padding:20px; border-radius:10px;">
 <h2>About Me</h2>
-<p>I am a purpose-driven and creative professional with a strong foundation in Database, Python, and AI tools. My background in visual storytelling, combined with several-level awards in design and social themes , reflects both my expressive thinking and social awareness. I enjoy solving real-world problems and bringing meaningful ideas to life.        As a class representative and mentor, I value collaboration, initiative, and leadership. I’m constantly learning and love building solutions that blend technology with impact  whether through data, design, or deep logic.</p>
+<p>I am a purpose-driven and creative professional with a strong foundation in Database, Python, and AI tools. My background in visual storytelling, combined with several-level awards in design and social themes , reflects both my expressive thinking and social awareness.                  I enjoy solving real-world problems and bringing meaningful ideas to life.        As a class representative and mentor, I value collaboration, initiative, and leadership. I’m constantly learning and love building solutions that blend technology with impact  whether through data, design, or deep logic.</p>
 </div>
 
 <img width="6080" height="52" alt="image" src="https://github.com/user-attachments/assets/6cec6f01-fefe-4940-8dff-54b6cb2732a8" />
