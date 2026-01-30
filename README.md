@@ -9,7 +9,7 @@
 </div>
 
 <p align="center">
-  <a href="Supriya_Sharma_Resume.pdf">
+  <a href="SUPRIYA SHARMA.pdf">
     <img src="https://img.shields.io/badge/View%20Resume-PDF-red?style=for-the-badge&logo=adobeacrobatreader">
   </a>
 </p>
