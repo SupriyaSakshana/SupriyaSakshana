@@ -15,7 +15,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+##Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=FFD43B)
 ![NumPy](https://img.shields.io/badge/NumPy-0D1117?style=for-the-badge&logo=numpy&logoColor=4D77CF)
