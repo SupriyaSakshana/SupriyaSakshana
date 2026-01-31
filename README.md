@@ -8,11 +8,7 @@
 <p>I enjoy solving real-world problems and bringing meaningful ideas to life. As a class representative and mentor, I value collaboration, initiative, and leadership. I’m constantly learning and love building solutions that blend technology with impact  whether through data, design, or deep logic.</p>
 </div>
 
-<p align="center">
-  <a href="SUPRIYA SHARMA.pdf">
-    <img src="https://img.shields.io/badge/View%20Resume-PDF-red?style=for-the-badge&logo=adobeacrobatreader">
-  </a>
-</p>
+
 
 
 
